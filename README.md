@@ -1,5 +1,7 @@
 # landing-page
-## [vanilla JavaScript](https://quester16.github.io/landing-page/)
+## [vanilla JavaScript](https://coder-landing.netlify.app/)
 
 ## простой макет с интерактивностью
-module (wabpack)
+- AJAX запросы
+- module (wabpack)
+- collect data trick
